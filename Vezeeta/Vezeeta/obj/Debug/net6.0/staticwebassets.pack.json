@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Algoriza project - Copy\\Vezeeta\\Vezeeta\\wwwroot\\Images\\Doc1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Doc1.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Vezeeta.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Vezeeta.props",
+      "PackagePath": "build\\Vezeeta.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Vezeeta.props",
+      "PackagePath": "buildMultiTargeting\\Vezeeta.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Vezeeta.props",
+      "PackagePath": "buildTransitive\\Vezeeta.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

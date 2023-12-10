@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "v6L3L/tRVrtN8EsdJUi9hmNm/lbULqM8p0WU/pxVKYY=",
+  "Source": "Vezeeta",
+  "BasePath": "_content/Vezeeta",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Vezeeta\\wwwroot",
+      "Source": "Vezeeta",
+      "ContentRoot": "C:\\Users\\Omar\\Desktop\\Algoriza project - Copy\\Vezeeta\\Vezeeta\\wwwroot\\",
+      "BasePath": "_content/Vezeeta",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Omar\\Desktop\\Algoriza project - Copy\\Vezeeta\\Vezeeta\\wwwroot\\Images\\Doc1.jpg",
+      "SourceId": "Vezeeta",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Omar\\Desktop\\Algoriza project - Copy\\Vezeeta\\Vezeeta\\wwwroot\\",
+      "BasePath": "_content/Vezeeta",
+      "RelativePath": "Images/Doc1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Doc1.jpg"
+    }
+  ]
+}
